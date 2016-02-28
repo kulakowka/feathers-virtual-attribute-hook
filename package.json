@@ -1,6 +1,6 @@
 {
   "name": "feathers-virtual-attribute-hook",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "homepage": "http://feathersjs.com",
   "description": "Feathers hook for add virtual attributes to your service response",
   "repository": {
