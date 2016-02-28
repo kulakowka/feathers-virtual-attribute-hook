@@ -11,7 +11,7 @@ This is experiment. **Work in progress!**
 Feathers hook for add virtual attributes to your service response.
 
 ```javascript
-const validateHook = require('feathers-virtual-attribute-hook')
+const addVirtualAttribute = require('feathers-virtual-attribute-hook')
 
 app.service('/messages').after({
   find: [ 
